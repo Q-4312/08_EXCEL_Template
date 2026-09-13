@@ -67,13 +67,16 @@
 
 ## 03-4. 조건부 서식으로 빠르게 데이터 분석하기
 > **특정 값보다 크거나 작을 때 강조하기(137 ~139p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="631" height="475" alt="image" src="https://github.com/user-attachments/assets/772dcf29-ecbc-4ca4-9b5e-2e0a0e396c9f" />
+
 
 > **조건을 만족할 때 전체 행 강조하기(141 ~142p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="791" height="510" alt="image" src="https://github.com/user-attachments/assets/98ef3763-637b-4e9b-9347-5d1e7374ab91" />
+
 
 > **여러 조건에 모두 만족하는 셀 강조하기(143 ~144p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="419" height="442" alt="image" src="https://github.com/user-attachments/assets/f2e7fff3-b0ff-45b4-88a4-cd7174415573" />
+
 
 
 ---
