@@ -43,30 +43,43 @@
 
 ## 04-1. 1분 투자로 100점짜리 보고서 완성하기
 > **입력하는 값 & 계산되는 값 구분하기(162 ~ 163p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1238" height="517" alt="image" src="https://github.com/user-attachments/assets/13b21009-44a0-4160-bc72-1bfb830017a5" />
+
 
 
 ## 04-2. 외부 통합 문서 참조할 때 발생하는 오류 처리하기
 > **외부 데이터 원본에 대한 연결 오류 해결하기(166 ~167p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1848" height="473" alt="image" src="https://github.com/user-attachments/assets/12ae87eb-d8e9-4642-bfb3-2c9948d66aac" />
+<img width="1103" height="678" alt="image" src="https://github.com/user-attachments/assets/fe3967ed-4d51-4de3-92a8-6d67e3fad490" />
+
 
 
 ## 04-5. 엑셀은 보안 측면에서 완벽한 프로그램이 아니다
 > **데이터 유효성 검사로 입력할 데이터 제한하기(179 ~183p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1197" height="476" alt="image" src="https://github.com/user-attachments/assets/2ddaec32-6928-439a-a5f1-7d359b3208e5" />
+<img width="1192" height="460" alt="image" src="https://github.com/user-attachments/assets/94f5a352-857d-44fb-b304-498e0d9062c2" />
+
 
 > **시트 내용을 수정하지 못하도록 보호하기(186 ~190p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1285" height="635" alt="image" src="https://github.com/user-attachments/assets/6e088f09-9d6b-44aa-ab78-4ea32aa06cd6" />
+<img width="1195" height="596" alt="image" src="https://github.com/user-attachments/assets/bf3232c7-b2ad-4f17-ad64-aef963411e3c" />
+
 
 
 ## 04-6. 실무자가 반드시 알아야 할 인쇄 설정 기본
 > **해당 내용(194 ~199p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="500" height="592" alt="image" src="https://github.com/user-attachments/assets/2add9157-12d8-4555-8d55-59ebcb2f4236" />
+<img width="714" height="677" alt="image" src="https://github.com/user-attachments/assets/736913ea-1d2c-484d-a47f-53fe2bf470fc" />
+<img width="592" height="781" alt="image" src="https://github.com/user-attachments/assets/6edd1468-20b3-4787-a19c-bf817c4a5d4e" />
+
 
 
 ## 04-7. 여러 페이지 보고서를 인쇄할 때 확인 사항
 > **해당 내용(200 ~207p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="612" height="773" alt="image" src="https://github.com/user-attachments/assets/25b418c5-78af-451e-94cc-77f46673a673" />
+<img width="912" height="635" alt="image" src="https://github.com/user-attachments/assets/89e4c6be-c1b9-4a5c-8f44-2b1a278a0ece" />
+<img width="601" height="763" alt="image" src="https://github.com/user-attachments/assets/d27d0960-434b-453a-8381-d3f19616166d" />
+
 
 ---
 
