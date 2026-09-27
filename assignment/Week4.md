@@ -42,39 +42,47 @@
 
 ## 05-1. 엑셀 데이터 관리의 기본 규칙
 > **데이터 관리를 할 때 주의해야 할 점에 대해 설명해주세요.**
-<!-- 이 부분을 지우고 작성해주세요.-->
+줄 바꿈, 범위 선택 시 빈 셀, 빈 셀 참조 시 0 반환되는 등의 문제가 발생할 수 있으니 유념해야 합니다.
 
 > **여러 시트를 동시에 편집하기(223 ~ 224p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1391" height="568" alt="image" src="https://github.com/user-attachments/assets/33675494-4533-4874-93fc-c5ebda1b69ac" />
+
 
 
 ## 05-2. 나만의 목록을 만들어 원하는 순서대로 정렬하기
 > **데이터에서 고유 값 찾고, 사용자 지정 목록 등록하기(228 ~231p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1259" height="710" alt="image" src="https://github.com/user-attachments/assets/848e99c0-7c95-456b-a149-b63ea975ad3f" />
+
 
 
 ## 05-3. 조건에 맞는 데이터만 확인하는 자동 필터
 > **자동 필터에서 조건 지정하여 필터링하기(235 ~236p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1307" height="297" alt="image" src="https://github.com/user-attachments/assets/644dbfad-0df9-465e-8fda-036c5c9b94d4" />
+
 
 
 ## 05-4. 자동 필터와 정렬 기능으로 판매 현황 보고서 만들기
 > **매출이익률이 10% 이상인 데이터 필터링(243 ~245p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/488b9b3c-ab84-457a-abd9-7d0d0a2d875f" />
+
 
 > **매출이익 Top 10 필터링 후 시각화하기(246 ~247p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1352" height="407" alt="image" src="https://github.com/user-attachments/assets/85bd8c10-88a3-408f-9970-48cbc148325a" />
+
 
 
 ## 05-6. 원본 데이터는 유지하고, 다양한 조건을 지정하는 고급 필터
 > **여러 고객사 목록을 한방에 필터링하기(251 ~254p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1645" height="644" alt="image" src="https://github.com/user-attachments/assets/38115c9d-f24e-4662-b251-687f805b8817" />
+
 
 > **AND, OR 조건으로 고급 필터 실행하기(254 ~257p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1870" height="489" alt="image" src="https://github.com/user-attachments/assets/d021746f-7530-4c5e-98a7-36453439b04f" />
+
 
 > **원본과 다른 시트에 필터링 결과 추출하기(258 ~260p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1435" height="338" alt="image" src="https://github.com/user-attachments/assets/cfb59a0f-c34c-4ef9-be85-e680b0a10185" />
+
 
 ---
 
