@@ -40,27 +40,33 @@
 
 ## 08-2. 실무에서 사용하는 엑셀 차트 기본 공식
 > **5단계 과정에 따라 차트 완성하기(435 ~ 444p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1042" height="523" alt="image" src="https://github.com/user-attachments/assets/a4bf863e-de0d-425d-9c60-68f68064660b" />
+
 
 
 ## 08-3. 직장인이라면 반드시 기억해야 할 실무 차트 5가지
 > **시간의 흐름, 미래 데이터 예측은 꺾은선형 차트(445 ~ 449p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1365" height="449" alt="image" src="https://github.com/user-attachments/assets/bd5b4687-fdf3-4498-85f2-be343bb36cd4" />
+
 
 > **항목별 값의 차이 파악은 세로 막대형 차트(450 ~ 452p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1254" height="526" alt="image" src="https://github.com/user-attachments/assets/8f171636-e796-48ae-a689-d414c31ac97a" />
+
 
 > **특정 항목의 점유율을 강조할 때는 원형 차트(459 ~ 461p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1356" height="565" alt="image" src="https://github.com/user-attachments/assets/9f7ceb29-ffae-4810-aaf8-95a3fe662bf5" />
+
 
 
 
 ## 08-4. 기본 차트를 응용한 혼합 차트와 간트 차트 만들기
 > **혼합 차트 기능으로 누적 세로 막대형에 합계 레이블 표시하기(462 ~ 466p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="767" height="618" alt="image" src="https://github.com/user-attachments/assets/607c18e3-942a-4924-a7df-23b54e9b3529" />
+
 
 > **단위가 서로 다른 값을 표현할 때 혼합 차트의 보조 축 사용하기(467 ~ 471p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1243" height="474" alt="image" src="https://github.com/user-attachments/assets/cc36ad53-eebe-41ad-aa4c-b0cf141d6470" />
+
 
 
 ---
